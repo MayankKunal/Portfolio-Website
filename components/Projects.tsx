@@ -16,6 +16,15 @@ const projects = [
         live: 'https://jkiapthub-frontend.vercel.app/',
       },
   {
+    title: 'BlogSpace',
+    description:
+      'A modern blog application that enables users to discover amazing stories, insights, and ideas from a community of writers. Built with Next.js and MongoDB, featuring a clean interface for reading and sharing blog posts.',
+    tech: ['Next.js', 'MongoDB', 'React', 'JavaScript'],
+    image: '✍️',
+    github: 'https://github.com/MayankKunal',
+    live: 'https://blog-application-veq2.vercel.app/',
+  },
+  {
     title: 'Veda: An AI Assistance',
     description:
       'Developed an AI assistance using ReactJS and Gemini API for advanced language processing and AI capabilities. Integrated Gemini API into ReactJS projects, leveraging its powerful language model for natural language understanding, text generation, and other AI tasks, delivering innovative and engaging user experiences.',
